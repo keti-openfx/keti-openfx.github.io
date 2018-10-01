@@ -105,6 +105,8 @@ ruby -v
 gem install bundler
 gem install github-pages
 gem install jekyll
+bundle install
+bundle update
 ```
         
 **Run**
